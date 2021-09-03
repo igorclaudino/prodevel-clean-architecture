@@ -22,6 +22,9 @@
   "rules": {
     "prettier/prettier": "error",
     "import/no-unresolved": "off",
-    "import/extensions": "off"
+    "import/extensions": "off",
+    "import/no-extraneous-dependencies": "off",
+    "no-useless-constructor": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off"
   }
 }
